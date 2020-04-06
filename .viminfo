@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1586188941,,"wq!"
+|2,0,1586207811,,"wq!"
 :set number
 |2,0,1586187639,,"set number"
 
@@ -36,230 +36,260 @@
 |3,1,36,0,1,0,1586188506,"i"
 
 # File marks:
-'0  1  21  ~/chenfile.py
-|4,48,1,21,1586188941,"~/chenfile.py"
-'1  1  20  ~/chenfile.py
-|4,49,1,20,1586188901,"~/chenfile.py"
-'2  1  21  ~/chenfile.py
-|4,50,1,21,1586188795,"~/chenfile.py"
-'3  1  21  ~/chenfile.py
-|4,51,1,21,1586188795,"~/chenfile.py"
-'4  8  16  ~/chenfile.py
-|4,52,8,16,1586188639,"~/chenfile.py"
-'5  9  16  ~/chenfile.py
-|4,53,9,16,1586188639,"~/chenfile.py"
-'6  8  16  ~/chenfile.py
-|4,54,8,16,1586188639,"~/chenfile.py"
-'7  9  16  ~/chenfile.py
-|4,55,9,16,1586188639,"~/chenfile.py"
-'8  8  16  ~/chenfile.py
-|4,56,8,16,1586188639,"~/chenfile.py"
-'9  9  16  ~/chenfile.py
-|4,57,9,16,1586188639,"~/chenfile.py"
+'0  26  23  ~/pythondict01.py
+|4,48,26,23,1586207811,"~/pythondict01.py"
+'1  26  23  ~/pythondict01.py
+|4,49,26,23,1586207753,"~/pythondict01.py"
+'2  8  0  ~/pythondict01.py
+|4,50,8,0,1586207690,"~/pythondict01.py"
+'3  8  0  ~/pythondict01.py
+|4,51,8,0,1586207690,"~/pythondict01.py"
+'4  8  0  ~/pythondict01.py
+|4,52,8,0,1586207690,"~/pythondict01.py"
+'5  8  0  ~/pythondict01.py
+|4,53,8,0,1586207690,"~/pythondict01.py"
+'6  21  29  ~/pythondict01.py
+|4,54,21,29,1586207662,"~/pythondict01.py"
+'7  21  29  ~/pythondict01.py
+|4,55,21,29,1586207662,"~/pythondict01.py"
+'8  21  29  ~/pythondict01.py
+|4,56,21,29,1586207662,"~/pythondict01.py"
+'9  21  29  ~/pythondict01.py
+|4,57,21,29,1586207662,"~/pythondict01.py"
 
 # Jumplist (newest first):
--'  1  21  ~/chenfile.py
-|4,39,1,21,1586188941,"~/chenfile.py"
--'  1  20  ~/chenfile.py
-|4,39,1,20,1586188901,"~/chenfile.py"
--'  1  21  ~/chenfile.py
-|4,39,1,21,1586188795,"~/chenfile.py"
--'  8  16  ~/chenfile.py
-|4,39,8,16,1586188674,"~/chenfile.py"
--'  8  16  ~/chenfile.py
-|4,39,8,16,1586188674,"~/chenfile.py"
--'  8  16  ~/chenfile.py
-|4,39,8,16,1586188674,"~/chenfile.py"
--'  9  16  ~/chenfile.py
-|4,39,9,16,1586188639,"~/chenfile.py"
--'  9  16  ~/chenfile.py
-|4,39,9,16,1586188639,"~/chenfile.py"
--'  9  16  ~/chenfile.py
-|4,39,9,16,1586188639,"~/chenfile.py"
--'  4  13  ~/chenfile.py
-|4,39,4,13,1586188594,"~/chenfile.py"
--'  4  13  ~/chenfile.py
-|4,39,4,13,1586188594,"~/chenfile.py"
--'  4  13  ~/chenfile.py
-|4,39,4,13,1586188594,"~/chenfile.py"
--'  4  13  ~/chenfile.py
-|4,39,4,13,1586188594,"~/chenfile.py"
--'  4  13  ~/chenfile.py
-|4,39,4,13,1586188573,"~/chenfile.py"
--'  3  23  ~/chenfile.py
-|4,39,3,23,1586188541,"~/chenfile.py"
--'  3  23  ~/chenfile.py
-|4,39,3,23,1586188541,"~/chenfile.py"
--'  3  23  ~/chenfile.py
-|4,39,3,23,1586188541,"~/chenfile.py"
--'  3  23  ~/chenfile.py
-|4,39,3,23,1586188541,"~/chenfile.py"
--'  3  23  ~/chenfile.py
-|4,39,3,23,1586188541,"~/chenfile.py"
--'  3  23  ~/chenfile.py
-|4,39,3,23,1586188527,"~/chenfile.py"
--'  1  14  ~/chenfile.py
-|4,39,1,14,1586188499,"~/chenfile.py"
--'  1  14  ~/chenfile.py
-|4,39,1,14,1586188499,"~/chenfile.py"
--'  1  14  ~/chenfile.py
-|4,39,1,14,1586188499,"~/chenfile.py"
--'  1  14  ~/chenfile.py
-|4,39,1,14,1586188466,"~/chenfile.py"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
--'  7  57  ~/chenfile.txt
-|4,39,7,57,1586188349,"~/chenfile.txt"
+-'  26  23  ~/pythondict01.py
+|4,39,26,23,1586207811,"~/pythondict01.py"
+-'  26  23  ~/pythondict01.py
+|4,39,26,23,1586207753,"~/pythondict01.py"
+-'  8  0  ~/pythondict01.py
+|4,39,8,0,1586207703,"~/pythondict01.py"
+-'  8  0  ~/pythondict01.py
+|4,39,8,0,1586207703,"~/pythondict01.py"
+-'  8  0  ~/pythondict01.py
+|4,39,8,0,1586207690,"~/pythondict01.py"
+-'  21  29  ~/pythondict01.py
+|4,39,21,29,1586207668,"~/pythondict01.py"
+-'  21  29  ~/pythondict01.py
+|4,39,21,29,1586207668,"~/pythondict01.py"
+-'  21  29  ~/pythondict01.py
+|4,39,21,29,1586207668,"~/pythondict01.py"
+-'  21  29  ~/pythondict01.py
+|4,39,21,29,1586207662,"~/pythondict01.py"
+-'  11  24  ~/pythondict01.py
+|4,39,11,24,1586207652,"~/pythondict01.py"
+-'  11  24  ~/pythondict01.py
+|4,39,11,24,1586207652,"~/pythondict01.py"
+-'  11  24  ~/pythondict01.py
+|4,39,11,24,1586207652,"~/pythondict01.py"
+-'  11  24  ~/pythondict01.py
+|4,39,11,24,1586207652,"~/pythondict01.py"
+-'  11  24  ~/pythondict01.py
+|4,39,11,24,1586207570,"~/pythondict01.py"
+-'  1  0  ~/pythondict01.py
+|4,39,1,0,1586207557,"~/pythondict01.py"
+-'  1  0  ~/pythondict01.py
+|4,39,1,0,1586207557,"~/pythondict01.py"
+-'  1  0  ~/pythondict01.py
+|4,39,1,0,1586207557,"~/pythondict01.py"
+-'  1  0  ~/pythondict01.py
+|4,39,1,0,1586207557,"~/pythondict01.py"
+-'  1  0  ~/pythondict01.py
+|4,39,1,0,1586207557,"~/pythondict01.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586207536,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586203773,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
+-'  10  23  ~/challengeo2.py
+|4,39,10,23,1586202734,"~/challengeo2.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/pythondict01.py
+	*	1586207810	0
+	"	26	23
+	^	26	24
+	.	26	23
+	+	11	25
+	+	21	29
+	+	11	0
+	+	26	23
+
+> ~/challengeo2.py
+	*	1586207534	0
+	"	10	23
+	^	10	24
+	.	10	23
+	+	1	24
+	+	3	21
+	+	8	28
+	+	10	6
+	+	8	0
+	+	10	61
+	+	1	14
+	+	10	10
+	+	4	18
+	+	5	18
+	+	6	19
+	+	10	59
+	+	9	18
+	+	10	23
 
 > ~/chenfile.py
 	*	1586188940	0
