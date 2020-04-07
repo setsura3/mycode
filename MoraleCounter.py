@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 morale_score_counter = 0
-help_method = ["Your mental status is BLACK,"
+help_method = ["Your mental status is BLACK,
                "You should look for help immediately, call 1-800-273-8255 for help.",
                "Your mental status is RED, You might need to seek help from medical professional",
                "Your mental status is ORANGE, I would recommend you watch some YouTube videos",
