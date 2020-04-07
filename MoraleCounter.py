@@ -30,7 +30,7 @@ if ('a' <= name <= 'z') or ('A' <= name <= 'Z'):
             except ValueError:
                 print("Oops!  That was no valid number.  Try again...")
 
-        while 0 < score <= 5:
+        while 0 <= score <= 5:
             morale_score_counter += score
             print("--------------------------------------------------------------")
             break
